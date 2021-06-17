@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.DrinkeryManage
+Class-Path: sqljdbc42.jar
+
